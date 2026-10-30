@@ -6,7 +6,7 @@
 
 ## 1. 처음 10분
 ```bash
-git clone https://github.com/<아이디>/hackathon-kit /tmp/kit && bash /tmp/kit/setup.sh
+git clone https://github.com/cattlyh55-sudo/hackathon-kit /tmp/kit && bash /tmp/kit/setup.sh
 cat README.md; ls -R | head -40        # MCP나 연결할 시스템 언급이 있는지 확인
 python3 --version; node --version; git status; pip install pytest
 [ -n "$OPENAI_API_KEY" ] && echo "API 키 있음" || echo "API 키 없음"   # 값은 출력하지 않기

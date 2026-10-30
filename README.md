@@ -18,7 +18,7 @@
 ## 사용법
 
 ```bash
-git clone https://github.com/<아이디>/hackathon-kit /tmp/kit
+git clone https://github.com/cattlyh55-sudo/hackathon-kit /tmp/kit
 cd <과제 폴더>
 bash /tmp/kit/setup.sh
 ```
