@@ -12,7 +12,6 @@
 | `templates/docs/` | INTERVIEW, REQUIREMENTS, PLAN, DECISIONS, VERIFY 양식 (HANDOFF는 `handoff` 스킬이 필요할 때 만듦) |
 | `templates/gitignore` | 기본 `.gitignore` 항목 |
 | `.agents/skills/` | 기록용 스킬 4개: `cross-review`, `verify-log`, `handoff`, `checkpoint` |
-| `CHEATSHEET.md` | 진행 순서, 질문 목록, 프롬프트 예시, 위기 대응 (사전 학습용. 작업 폴더에 복사하지 않음) |
 | `setup.sh` | 위 파일을 작업 폴더에 복사 |
 
 ## 사용법
